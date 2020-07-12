@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-sandbox/static/css/main.dd9dd55e.chunk.css",
+    "main.js": "/react-sandbox/static/js/main.9ebc57fd.chunk.js",
+    "main.js.map": "/react-sandbox/static/js/main.9ebc57fd.chunk.js.map",
+    "runtime-main.js": "/react-sandbox/static/js/runtime-main.1e8cd621.js",
+    "runtime-main.js.map": "/react-sandbox/static/js/runtime-main.1e8cd621.js.map",
+    "static/js/2.d2e12da6.chunk.js": "/react-sandbox/static/js/2.d2e12da6.chunk.js",
+    "static/js/2.d2e12da6.chunk.js.map": "/react-sandbox/static/js/2.d2e12da6.chunk.js.map",
+    "index.html": "/react-sandbox/index.html",
+    "precache-manifest.3736f890b1050481d207ac22aaa54853.js": "/react-sandbox/precache-manifest.3736f890b1050481d207ac22aaa54853.js",
+    "service-worker.js": "/react-sandbox/service-worker.js",
+    "static/css/main.dd9dd55e.chunk.css.map": "/react-sandbox/static/css/main.dd9dd55e.chunk.css.map",
+    "static/js/2.d2e12da6.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.d2e12da6.chunk.js.LICENSE.txt",
+    "static/media/hats.png": "/react-sandbox/static/media/hats.c11d6415.png",
+    "static/media/jackets.png": "/react-sandbox/static/media/jackets.f32f54ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e8cd621.js",
+    "static/js/2.d2e12da6.chunk.js",
+    "static/css/main.dd9dd55e.chunk.css",
+    "static/js/main.9ebc57fd.chunk.js"
+  ]
+}
